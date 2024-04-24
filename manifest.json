@@ -254,16 +254,16 @@
       "vendor": "Team Pudge"
     },
     {
-      "name": "YES Coin",
+      "name": "Origami Owl",
       "chainId": 1,
-      "symbol": "YES",
-      "decimals": 8,
-      "address": "0:520d6940cc4a3c442f81e93880ece56717ceb206a856f1f92314426ecc3dc17c",
-      "logoURI": "https://optim.tildacdn.com/tild3564-6531-4233-b731-313337343762/-/resize/664x/-/format/webp/Ycoin__1.png",
+      "symbol": "OOL",
+      "decimals": 9,
+      "address": "0:3d0b70e8b12e6f84e001d2d3413fdb1c56fda6cc051d8728846346baef3d1181",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/158772625/2cf92ac3-1cca-4ded-ac93-e41007b1da73",
       "version": 5,
       "verified": false,
-      "vendor": "Yes-Coin.com TEAM",
-      "external_url": "https://yes-coin.com/"
+      "vendor": "Origami Owl TEAM",
+      "external_url": "https://origamiowl.finance/"
     }
   ]
 }
